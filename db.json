@@ -1,0 +1,70 @@
+{
+    "orders": [
+        {
+            "naam": "C. Stuurman",
+            "adres": "Gabri\u00ebl Metsulaan 19",
+            "postcode": "5611 SP",
+            "bestelling": [
+                {
+                    "Pizza": "Siciliane"
+                },
+                {
+                    "Pizza": "Calzone"
+                },
+                {
+                    "Pizza": "Calzone"
+                },
+                {
+                    "Pizza": "Hawaii"
+                },
+                {
+                    "Pizza": "Napolitane"
+                }
+            ]
+        },
+        {
+            "naam": "E. Penninx",
+            "adres": "Godschalk Rosemondtstraat 14",
+            "postcode": "5611 TJ",
+            "bestelling": [
+                {
+                    "Pizza": "Siciliane"
+                },
+                {
+                    "Pizza": "Napolitane"
+                },
+                {
+                    "Pizza": "Margarita"
+                },
+                {
+                    "Pizza": "Calzone"
+                },
+                {
+                    "Pizza": "Calzone"
+                }
+            ]
+        },
+        {
+            "naam": "H. Jansen",
+            "adres": "Stationsplein 24",
+            "postcode": "5611 AC",
+            "bestelling": [
+                {
+                    "Pizza": "Siciliane"
+                },
+                {
+                    "Pizza": "Napolitane"
+                },
+                {
+                    "Pizza": "4-Stagione"
+                },
+                {
+                    "Pizza": "Napolitane"
+                },
+                {
+                    "Pizza": "Siciliane"
+                }
+            ]
+        }
+    ]
+}
